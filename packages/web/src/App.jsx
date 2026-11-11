@@ -46,7 +46,7 @@ export default function App() {
         <div style={{background:'#1a1a2e',borderRadius:12,padding:20,color:'#93c5fd',fontFamily:'monospace',fontSize:12}}>
           <div style={{marginBottom:8,color:'#888'}}>Monorepo structure:</div>
           <pre style={{margin:0,lineHeight:1.8}}>{`cloudways-monorepo/
-├── package.json          ← root workspace hai ye
+├── package.json          ← root workspace hai ye jee
 ├── packages/
 │   ├── api/              ← Express backend (deploy separately)
 │   │   ├── src/index.js
